@@ -38,7 +38,7 @@
 
 ### 📫 Contact Me:
 
-- Telegram: [@@st1f3nd](https://t.me/st1f3nd)  
+- Telegram: [@st1f3nd](https://t.me/st1f3nd)  
 - Email: andreipustovoit6@gmail.com  
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)
 
