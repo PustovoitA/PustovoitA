@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <a href='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PustovoitA&theme=2077'></a>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PustovoitA)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
