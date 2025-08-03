@@ -6,8 +6,7 @@
 ### 👨‍💻 About Me:
 - 🔭 Currently working on personal and open-source projects  
 - 🌱 Learning **TypeScript, React, Redux Toolkit, Angular**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Git, React**  
-- 📫 How to reach me: **your.email@example.com**
+- 💬 Ask me about **HTML, CSS, JavaScript, Git, React** 
 
 ---
 
