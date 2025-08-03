@@ -33,6 +33,7 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?PustovoitA=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?PystovoitA=anuraghazra&hide=contribs,prs)
 
 ---
 
