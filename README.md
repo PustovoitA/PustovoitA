@@ -38,8 +38,8 @@
 
 ### 📫 Contact Me:
 
-- Telegram: [@your_tg_nickname](https://t.me/your_tg_nickname)  
-- Email: your.email@example.com  
+- Telegram: [@@st1f3nd](https://t.me/st1f3nd)  
+- Email: andreipustovoit6@gmail.com  
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)
 
 ---
