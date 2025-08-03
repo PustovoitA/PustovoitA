@@ -5,7 +5,7 @@
 
 
 ### 👨‍💻 About Me:
-- 👨‍💻 Name:Andrii
+- 🙋‍♂️ Name:Andrii
 - 🎂 Age: 17 years old
 - 🌍 Location: Ukraine, Dnipro
 - 🗣️ Languages: Ukrainian: Native, Russian: Native, English: B2.
