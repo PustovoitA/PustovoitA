@@ -38,9 +38,20 @@
 
 ### 📫 Contact Me:
 
-- Telegram: [@st1f3nd](https://t.me/st1f3nd)  
-- Email: andreipustovoit6@gmail.com  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-link)
+<p align="left">
+  <a href="mailto:andreipustovoit6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/st1f3nd" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/PustovoitA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
