@@ -3,10 +3,11 @@
 
 ---
 
+
 ### 👨‍💻 About Me:
-- 🔭 Currently working on personal and open-source projects  
-- 🌱 Learning **TypeScript, React, Redux Toolkit, Angular**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Git, React** 
+- Name: Andreii
+- Age: 17 y.o 
+- 🌍  I'm based in Dnipro
 
 ---
 
