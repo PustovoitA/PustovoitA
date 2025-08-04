@@ -1,3 +1,7 @@
+<p aligh='center'>
+  <img href='./giphty.gif'></img>
+</p>
+
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">💻 Frontend Developer</h3>
 
