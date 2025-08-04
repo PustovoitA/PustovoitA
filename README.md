@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PustovoitA&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PustovoitA&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117" height='300px' width="330px"/>
 </p>
 
 ---
