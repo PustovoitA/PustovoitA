@@ -11,7 +11,7 @@
 - 🙋‍♂️ Name:Andrii
 - 🎂 Age: 17 years old
 - 🌍 Location: Ukraine, Dnipro
-- 🗣️ Languages: Ukrainian: Native, Russian: Native, English: B2.
+- 🗣️ Languages: Ukrainian: Native, Russian: Native, English: B1+.
 - 🎓 Education: Front-end Developer from IT STEP Academy.
 - 📚 Hobbies:Gym, footbol.
 
