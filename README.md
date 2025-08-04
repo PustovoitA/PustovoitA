@@ -1,5 +1,5 @@
 <p aligh='center'>
-  <img href='./giphty.gif'></img>
+  <img src='./giphty.gif'></img>
 </p>
 
 <h1 align="center">Hi 👋, I'm Andrii</h1>
