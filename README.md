@@ -1,5 +1,5 @@
-<p aligh='center'>
-  <img src="https://github.com/Ma1ndudecome/MaketTraining/blob/main/giphy%20(1).gif?raw=true"></img>
+<p align='center'>
+  <img src="https://github.com/PustovoitA/PustovoitA/blob/main/giphy.gif"></img>
 </p>
 
 <h1 align="center">Hi 👋, I'm Andrii</h1>
