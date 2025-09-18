@@ -66,7 +66,7 @@
   <a href="https://t.me/st1f3nd" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="www.linkedin.com/in/andrei-pustovoit-0b6176358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PustovoitA" target="_blank">
