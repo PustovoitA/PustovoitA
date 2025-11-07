@@ -13,7 +13,7 @@
 - 🌍 Location: Ukraine, Dnipro
 - 🗣️ Languages: Ukrainian: Native, Russian: Native, English: B1+.
 - 🎓 Education: Front-end Developer from IT STEP Academy.
-- 📚 Hobbies:Gym, footbol.
+- 📚 Hobbies:Gym, football.
 
 ---
 
