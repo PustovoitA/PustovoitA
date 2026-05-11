@@ -1,12 +1,3 @@
-<p align='center'>
-  <img src="https://github.com/PustovoitA/PustovoitA/blob/main/giphy.gif"></img>
-</p>
-
-<h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">💻 Frontend Developer</h3>
-
----
-
 ### 👨‍💻 About Me:
 - 🙋‍♂️ Name:Andrii
 - 🎂 Age: 18 years old
