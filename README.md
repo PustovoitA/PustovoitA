@@ -37,13 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </p>
 
-
----
-
-### 📊 GitHub Stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PustovoitA&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 Contact Me:
