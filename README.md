@@ -42,7 +42,8 @@
 
 ### 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PustovoitA&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PustovoitA&show_icons=true&theme=tokyonight)
+
 ---
 
 ### 📫 Contact Me:
