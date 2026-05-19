@@ -2,7 +2,7 @@
 - 🙋‍♂️ Name:Andrii
 - 🎂 Age: 18 years old
 - 🌍 Location: Ukraine, Dnipro
-- 🗣️ Languages: Ukrainian: Native, Russian: Native, English: B1+.
+- 🗣️ Languages: Ukrainian: Native, Russian: Native, English: B1.
 - 🎓 Education: Front-end Developer from IT STEP Academy.
 - 📚 Hobbies:Gym, football.
 
@@ -42,9 +42,7 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PustovoitA&show_icons=true&theme=transparent&bg_color=0d1117&border_color=0d1117"height='500px' width="550px"/>
-</p>
+
 
 ---
 
