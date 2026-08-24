@@ -51,6 +51,17 @@ Looking for my first professional role.
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PustovoitA&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PustovoitA&layout=compact&hide_border=true&theme=default" />
+
+</div>
+
+---
+
 <div align="center">
 
 *Open to junior / trainee frontend roles — remote or Dnipro-based.*
